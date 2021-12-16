@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="login">Login</string>
+    <string name="pass">Password</string>
+    <string name="buttonText">"Log in "</string>
+    <string name="textRes">Login: lopick Password: 123</string>
+    <string name="loginP"> lopick</string>
+    <string name="passP">123</string>
+
+</resources>
